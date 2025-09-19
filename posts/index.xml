@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Danielius Sauseris</title>
-    <link>https://danisss7.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Danielius Sauseris</description>
     <generator>Hugo -- 0.150.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Sep 2025 23:30:00 +0300</lastBuildDate>
-    <atom:link href="https://danisss7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Sep 2025 02:00:03 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trecias Postas</title>
+      <link>http://localhost:1313/posts/trecias-postas/</link>
+      <pubDate>Sat, 20 Sep 2025 02:00:03 +0300</pubDate>
+      <guid>http://localhost:1313/posts/trecias-postas/</guid>
+      <description>&lt;p&gt;Dar vienas puslapis paskutiniam punktui išpildyti.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Antras postas</title>
-      <link>https://danisss7.github.io/posts/antras-postas/</link>
+      <link>http://localhost:1313/posts/antras-postas/</link>
       <pubDate>Tue, 16 Sep 2025 23:30:00 +0300</pubDate>
-      <guid>https://danisss7.github.io/posts/antras-postas/</guid>
+      <guid>http://localhost:1313/posts/antras-postas/</guid>
       <description>&lt;p&gt;Sveiki! Čia mano antrasis įrašas 🚀&lt;/p&gt;
 &lt;h2 id=&#34;paveikslėlis&#34;&gt;Paveikslėlis&lt;/h2&gt;
 &lt;figure&gt;
@@ -30,9 +37,9 @@
     </item>
     <item>
       <title>Pirmas postas</title>
-      <link>https://danisss7.github.io/posts/pirmas-postas/</link>
+      <link>http://localhost:1313/posts/pirmas-postas/</link>
       <pubDate>Tue, 16 Sep 2025 22:25:49 +0300</pubDate>
-      <guid>https://danisss7.github.io/posts/pirmas-postas/</guid>
+      <guid>http://localhost:1313/posts/pirmas-postas/</guid>
       <description>&lt;p&gt;Sveiki atvykę į mano pirmąjį puslapį!&lt;/p&gt;</description>
     </item>
   </channel>
